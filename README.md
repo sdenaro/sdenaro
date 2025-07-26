@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Salvatore Denaro</h1>
 
 ## About me
