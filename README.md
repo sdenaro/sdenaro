@@ -33,6 +33,7 @@
 
 - 📛 Skill badges from training
 
+    - [Google Cloud](https://www.credly.com/badges/d8b836f7-d0d5-4532-8d36-3a73b4aa5376)
     - [Google Skills Boost profile](https://www.cloudskillsboost.google/public_profiles/db5d50bb-54e5-485c-b8ca-26b6ec986752)
     - [Google Developer Profile](https://g.dev/sdenaro)
 
