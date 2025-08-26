@@ -2,7 +2,7 @@
 
 ## About me
 
-- 🔭 I’m currently working looking for interesting projects with non-profit or not for profit organizations that need technical leadership.
+- 🔭 I’m currently open to interesting projects with non-profit or not for profit organizations that need technical leadership or just coding time.
 
 - 📝 I irregularly write articles on [Blogger](https://salvatore.denaro.nyc/)
 
