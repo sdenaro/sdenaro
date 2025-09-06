@@ -16,7 +16,7 @@
 
 <p align="left">
 <a href="https://twitter.com/sdenaro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sdenaro" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sdenaro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sdenaro" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/salvatore-denaro-147b641/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sdenaro" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/13753" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13753" height="30" width="40" /></a>
 <a href="https://fb.com/saldenaro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="saldenaro" height="30" width="40" /></a>
 <a href="https://instagram.com/saldenaro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saldenaro" height="30" width="40" /></a>
